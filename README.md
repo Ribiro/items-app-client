@@ -15,7 +15,7 @@ cd items-app-client
 2. Install the node modules:
 
 ```
-npm run build
+npm install
 
 ```
 
