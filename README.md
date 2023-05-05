@@ -22,6 +22,6 @@ npm install
 3. Start the program:
 
 ```
-npm run serve
+npm run dev
 
 ```
